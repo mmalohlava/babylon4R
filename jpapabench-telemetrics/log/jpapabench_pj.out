@@ -1,0 +1,959 @@
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 1
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 1
+?0.0?1.5707964?0.7409078?0.0?1.5707964E-7?-0.007409078?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 0 executed
+### TAKEOFF ###
+#1.5707964#0.0#1.5707964#1.5707964#1.5707964#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 2
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 2
+?0.0?1.5707964?0.98870456?0.0?1.5707964E-7?-0.009887045?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.0 < 200.0
+|0.0|0.0|5.668789|
+#1.5707964#5.668789#2.1851928#2.1851928#0.61439645#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 3
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 3
+?0.0?1.5707964?0.7246183?0.0?1.5707964E-7?-0.007246183?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.0 < 200.0
+|0.0|0.0|5.668789|
+#1.5707964#5.668789#2.1851928#2.1851928#0.0#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 4
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 4
+?0.0?1.5707964?0.9967406?0.0?1.5707964E-7?-0.009967405?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.0 < 200.0
+|0.0|0.0|5.668789|
+#1.5707964#5.668789#2.1851928#2.1851928#0.0#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 5
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 5
+?0.0?1.5707964?1.0246187?0.0?1.5707964E-7?-0.010246187?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.0 < 200.0
+|0.0|0.0|5.668789|
+#1.5707964#5.668789#2.1851928#2.1851928#0.0#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 6
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 6
+?0.0?1.5707964?0.9815011?0.0?1.5707964E-7?-0.009815011?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.0 < 200.0
+|0.0|0.0|5.668789|
+#1.5707964#5.668789#2.1851928#2.1851928#0.0#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 7
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 7
+?8.417488?1.5691292?0.68044937?0.08417488?1.5691292E-7?-0.0068044937?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=124.96256 < 200.0
+|2.104367|0.0035081566|5.660174|
+#1.5691292#5.660174#2.1921408#2.1921408#0.006947994#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 8
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 8
+?11.415737?1.5581652?0.6962638?0.11415737?1.5581652E-7?-0.006962638?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=124.896866 < 200.0
+|4.9580708|0.039555613|5.648567|
+#1.5581652#5.648567#2.192783#2.192783#6.4229965E-4#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 9
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 9
+?12.169478?1.5346353?0.75450736?0.12169478?1.5346353E-7?-0.0075450735?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=124.88789 < 200.0
+|7.9984484|0.14954665|5.636198|
+#1.5346353#5.636198#2.1816227#2.1816227#-0.011160374#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 10
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 10
+?12.700271?1.4997187?1.1531595?0.1270027?1.4997187E-7?-0.011531595?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=124.96818 < 200.0
+|11.165511|0.3750338|5.6232057|
+#1.4997187#5.6232057#2.1596982#2.1596982#-0.021924496#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 11
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 11
+?13.056957?1.4535656?1.6354265?0.13056958?1.4535657E-7?-0.016354265?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.136505 < 200.0
+|14.407358|0.7568284|5.6096807|
+#1.4535656#5.6096807#2.1270702#2.1270702#-0.03262806#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 12
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 12
+?13.287827?1.3959041?2.0396187?0.13287826?1.3959041E-7?-0.020396188?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.37537 < 200.0
+|17.678652|1.3348578|5.5956726|
+#1.3959041#5.5956726#2.0834167#2.0834167#-0.04365349#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 13
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 13
+?13.434033?1.326206?2.1724157?0.13434033?1.326206E-7?-0.021724157?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.662224 < 200.0
+|20.937212|2.1481538|5.581205|
+#1.326206#5.581205#2.028186#2.028186#-0.055230618#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 14
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 14
+?13.527716?1.2437723?2.032151?0.13527715?1.2437722E-7?-0.02032151?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=125.97518 < 200.0
+|24.13992|3.2345223|5.56629|
+#1.2437723#5.56629#1.960668#1.960668#-0.067518115#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 15
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 15
+?13.592523?1.1477691?2.324141?0.13592523?1.1477691E-7?-0.02324141?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=126.29521 < 200.0
+|27.238518|4.6295376|5.5509486|
+#1.1477691#5.5509486#1.8800057#1.8800057#-0.08066225#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 16
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 16
+?13.645183?1.0372298?2.0475264?0.13645183?1.03722975E-7?-0.020475263?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=126.60657 < 200.0
+|30.17565|6.3645544|5.5352263|
+#1.0372298#5.5352263#1.785189#1.785189#-0.094816685#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 17
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 17
+?13.697156?0.9110341?2.0669985?0.13697156?9.110341E-8?-0.020669986?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=126.89624 < 200.0
+|32.88132|8.463408|5.5192146|
+#0.9110341#5.5192146#1.6750048#1.6750048#-0.11018419#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 18
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 18
+?13.756533?0.76857364?1.9736633?0.13756533?7.685736E-8?-0.019736633?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=127.15435 < 200.0
+|35.271908|10.935821|5.5030746|
+#0.76857364#5.5030746#1.5486845#1.5486845#-0.12632036#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 19
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 19
+?13.826577?0.6191252?1.9023986?0.13826577?6.1912516E-8?-0.019023987?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=127.38714 < 200.0
+|37.277885|13.750875|5.4870367|
+#0.6191252#5.4870367#1.415274#1.415274#-0.13341045#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 20
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 20
+?13.826577?0.6191252?1.9023986?0.13826577?6.1912516E-8?-0.019023987?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=127.38714 < 200.0
+|37.277885|13.750875|5.4870367|
+#0.6191252#5.4870367#1.415274#1.415274#0.0#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 21
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 21
+?13.956897?0.3221158?1.7710495?0.13956897?3.221158E-8?-0.017710496?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=127.82734 < 200.0
+|39.956627|20.15752|5.456293|
+#0.3221158#5.456293#1.1490082#1.1490082#-0.26626587#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 22
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 22
+?14.006647?0.17456152?1.673043?0.14006647?1.7456152E-8?-0.01673043?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=128.049 < 200.0
+|40.564785|23.60598|5.4421163|
+#0.17456152#5.4421163#1.0156306#1.0156306#-0.13337755#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 23
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 23
+?14.044736?0.02747186?1.9251575?0.14044736?2.747186E-9?-0.019251576?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=128.27594 < 200.0
+|40.661232|27.115852|5.429091|
+#0.02747186#5.429091#0.88156635#0.88156635#-0.13406426#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 24
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 24
+?14.072294?6.1639147?1.8396816?0.14072295?6.1639145E-7?-0.018396817?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=128.50897 < 200.0
+|40.242622|30.608946|5.4174824|
+#6.1639147#5.4174824#0.7464323#0.7464323#-0.13513404#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 25
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 25
+?14.091083?6.0174136?1.6736212?0.14091082?6.0174136E-7?-0.016736211?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=128.74779 < 200.0
+|39.31735|34.008045|5.4075527|
+#6.0174136#5.4075527#0.6098609#0.6098609#-0.1365714#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 26
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 26
+?14.103003?5.87107?1.757858?0.14103003?5.8710697E-7?-0.01757858?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=128.99162 < 200.0
+|37.90511|37.238617|5.3995566|
+#5.87107#5.3995566#0.47151327#0.47151327#-0.13834763#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 27
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 27
+?14.109917?5.7248282?1.9997232?0.14109917?5.724828E-7?-0.019997232?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=129.23949 < 200.0
+|36.036266|40.230377|5.39374|
+#5.7248282#5.39374#0.33108807#0.33108807#-0.1404252#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 28
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 28
+?14.113345?5.5786347?1.962321?0.14113346?5.578635E-7?-0.01962321?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=129.49039 < 200.0
+|33.750984|42.918636|5.390332|
+#5.5786347#5.390332#0.18830252#0.18830252#-0.14278555#-0.37206098#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 29
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 29
+?14.114516?5.432468?2.025485?0.14114517?5.432468E-7?-0.02025485?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=129.74345 < 200.0
+|31.098314|45.24558|5.389537|
+#5.432468#5.389537#0.04293108#0.04293108#-0.14537144#-0.08483319#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 30
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 30
+?14.114288?5.286302?1.8868985?0.14114289?5.286302E-7?-0.018868985?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=129.99799 < 200.0
+|28.135069|47.161327|5.3915205|
+#5.286302#5.3915205#-0.10521841#-0.10521841#-0.14814949#0.20791161#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 31
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 31
+?14.113371?5.140132?2.0114806?0.14113371?5.140132E-7?-0.020114806?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=130.25342 < 200.0
+|24.924603|48.624954|5.3963995|
+#5.140132#5.3963995#-0.25626755#-0.25626755#-0.15104914#0.5063518#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 32
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 32
+?14.112174?4.9939485?1.9947958?0.14112175?4.9939484E-7?-0.019947957?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=130.50937 < 200.0
+|21.53547|49.60524|5.404222|
+#4.9939485#5.404222#-0.41027355#-0.41027355#-0.154006#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 33
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 33
+?14.111002?4.847753?1.9953511?0.14111002?4.847753E-7?-0.019953512?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=130.76555 < 200.0
+|18.03999|50.081314|5.4149513|
+#4.847753#5.4149513#-0.5671983#-0.5671983#-0.15692472#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 34
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 34
+?14.110123?4.701546?1.907784?0.14110123?4.7015462E-7?-0.01907784?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=131.02179 < 200.0
+|14.51272|50.043068|5.42845|
+#4.701546#5.42845#-0.7269039#-0.7269039#-0.15970564#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 35
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 35
+?14.1092?4.5553317?1.8857706?0.141092?4.5553318E-7?-0.018857706?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=131.278 < 200.0
+|11.028888|49.491364|5.444467|
+#4.5553317#5.444467#-0.88913536#-0.88913536#-0.16223145#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 36
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 36
+?14.108494?4.4091053?1.8826339?0.14108494?4.4091053E-7?-0.01882634?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=131.53413 < 200.0
+|7.6627903|48.437984|5.4626327|
+#4.4091053#5.4626327#-1.0535274#-1.0535274#-0.164392#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 37
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 37
+?14.107985?4.2628703?2.0718465?0.14107984?4.2628704E-7?-0.020718465?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=131.79015 < 200.0
+|4.4862275|46.905415|5.482465|
+#4.2628703#5.482465#-1.2195945#-1.2195945#-0.16606712#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 38
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 38
+?14.10763?4.1166334?2.0695095?0.1410763?4.1166334E-7?-0.020695096?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=132.04605 < 200.0
+|1.5669633|44.926376|5.5033846|
+#4.1166334#5.5033846#-1.3867512#-1.3867512#-0.1671567#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 39
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 39
+?14.107393?3.970394?1.9757696?0.14107393?3.970394E-7?-0.019757695?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=132.30188 < 200.0
+|-1.0327139|42.54311|5.524749|
+#3.970394#5.524749#-1.5543549#-1.5543549#-0.16760373#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 40
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 40
+?14.107251?3.8241527?1.9240568?0.14107251?3.8241527E-7?-0.019240567?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=132.55762 < 200.0
+|-3.2573283|39.806484|5.545885|
+#3.8241527#5.545885#-1.7217324#-1.7217324#-0.16737747#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 41
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 41
+?14.10719?3.6779087?1.7363266?0.1410719?3.6779088E-7?-0.017363265?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=132.81331 < 200.0
+|-5.059398|36.774906|5.5661354|
+#3.6779087#5.5661354#-1.8882267#-1.8882267#-0.16649437#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 42
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 42
+?14.107165?3.5316653?1.8657901?0.14107165?3.5316654E-7?-0.0186579?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=133.06895 < 200.0
+|-6.40046|33.513092|5.5848966|
+#3.5316653#5.5848966#-2.0532312#-2.0532312#-0.16500449#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 43
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 43
+?14.107134?3.3854225?1.9500251?0.14107133?3.3854224E-7?-0.01950025?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=133.32457 < 200.0
+|-7.251886|30.090681|5.601653|
+#3.3854225#5.601653#-2.2162306#-2.2162306#-0.16299939#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 44
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 44
+?14.107158?3.2391787?1.8975?0.14107157?3.2391787E-7?-0.018975?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=133.58017 < 200.0
+|-7.5955|26.580725|5.615997|
+#3.2391787#5.615997#-2.3768182#-2.3768182#-0.16058755#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 45
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 45
+?14.107175?3.0929348?1.9176235?0.14107175?3.0929348E-7?-0.019176235?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=133.83577 < 200.0
+|-7.4239645|23.058159|5.6276393|
+#3.0929348#5.6276393#-2.5347044#-2.5347044#-0.15788627#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 46
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 46
+?14.107195?2.9466913?1.8447478?0.14107195?2.9466912E-7?-0.018447477?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=134.09135 < 200.0
+|-6.7409406|19.598186|5.6364064|
+#2.9466913#5.6364064#-2.6897151#-2.6897151#-0.1550107#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 47
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 47
+?14.10722?2.8004484?2.0655146?0.1410722?2.8004484E-7?-0.020655146?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=134.34694 < 200.0
+|-5.561011|16.274673|5.6422315|
+#2.8004484#5.6422315#-2.841783#-2.841783#-0.1520679#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 48
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 48
+?14.107237?2.654206?1.94923?0.14107236?2.654206E-7?-0.0194923?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=134.60252 < 200.0
+|-3.9093666|13.158574|5.645137|
+#2.654206#5.645137#-2.9909308#-2.9909308#-0.14914775#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 49
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 49
+?14.107247?2.5079637?1.9307466?0.14107247?2.5079638E-7?-0.019307466?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=134.85811 < 200.0
+|-1.8212674|10.316416|5.6452193|
+#2.5079637#5.6452193#-3.1372557#-3.1372557#-0.14632487#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 50
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 50
+?14.107263?2.3617215?2.1053026?0.14107263?2.3617216E-7?-0.021053025?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=135.1137 < 200.0
+|0.6587089|7.8088737|5.6426306|
+#2.3617215#5.6426306#3.0022762#3.0022762#-0.14365321#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 51
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 51
+?14.107269?2.2154787?1.8641223?0.14107269?2.2154786E-7?-0.018641222?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=135.36928 < 200.0
+|3.477618|5.689484|5.6375637|
+#2.2154787#5.6375637#2.8611002#2.8611002#-0.14117599#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 52
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 52
+?14.107272?2.0692365?2.0204268?0.14107272?2.0692366E-7?-0.020204268?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=135.62488 < 200.0
+|6.5752783|4.003493|5.630239|
+#2.0692365#5.630239#2.7221828#2.7221828#-0.13891745#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 53
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 53
+?14.107274?1.922994?1.894387?0.14107274?1.922994E-7?-0.01894387?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=135.88046 < 200.0
+|9.885559|2.786895|5.6208944|
+#1.922994#5.6208944#2.585285#2.585285#-0.1368978#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 54
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 54
+?14.107275?1.7767518?1.9832995?0.14107275?1.7767518E-7?-0.019832995?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=136.13606 < 200.0
+|13.33779|2.0656626|5.6097765|
+#1.7767518#5.6097765#2.4501605#2.4501605#-0.13512444#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 55
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 55
+?14.107275?1.6305096?1.925062?0.14107275?1.6305096E-7?-0.01925062?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=136.39166 < 200.0
+|16.858269|1.855193|5.597138|
+#1.6305096#5.597138#2.316557#2.316557#-0.13360357#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 56
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 56
+?14.107277?1.4842674?1.8959662?0.14107276?1.4842674E-7?-0.018959662?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=136.64725 < 200.0
+|20.37184|2.1599798|5.58323|
+#1.4842674#5.58323#2.1842225#2.1842225#-0.13233447#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 57
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 57
+?14.107264?1.3380247?1.9745374?0.14107263?1.3380247E-7?-0.019745374?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=136.90285 < 200.0
+|23.803488|2.9735165|5.568305|
+#1.3380247#5.568305#2.0529048#2.0529048#-0.13131762#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 58
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 58
+?14.107281?1.1917828?1.9838977?0.14107281?1.1917828E-7?-0.019838978?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=137.15843 < 200.0
+|27.07996|4.2784348|5.5526104|
+#1.1917828#5.5526104#1.9223579#1.9223579#-0.13054693#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 59
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 59
+?14.10727?1.0455401?1.9333243?0.1410727?1.0455401E-7?-0.019333243?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=137.41403 < 200.0
+|30.1313|6.0468764|5.5363936|
+#1.0455401#5.5363936#1.792332#1.792332#-0.13002586#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 60
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 60
+?14.10727?0.8992976?1.9236224?0.1410727?8.9929756E-8?-0.019236224?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=137.66963 < 200.0
+|32.89237|8.241088|5.5198984|
+#0.8992976#5.5198984#1.6625847#1.6625847#-0.12974739#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 61
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 61
+?14.107274?0.7530558?1.9753196?0.14107274?7.530558E-8?-0.019753195?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=137.92522 < 200.0
+|35.304222|10.814224|5.5033684|
+#0.7530558#5.5033684#1.5328726#1.5328726#-0.1297121#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 62
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 62
+?14.107272?0.6068133?1.8426245?0.14107272?6.068133E-8?-0.018426245?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=138.18082 < 200.0
+|37.31537|13.711353|5.4870462|
+#0.6068133#5.4870462#1.4029526#1.4029526#-0.12992#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 63
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 63
+?14.107265?0.46057135?1.9746242?0.14107266?4.6057135E-8?-0.019746242?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=138.4364 < 200.0
+|38.882874|16.870623|5.4711766|
+#0.46057135#5.4711766#1.27258#1.27258#-0.13037252#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 64
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 64
+?14.107279?0.3143281?1.8300407?0.1410728?3.1432812E-8?-0.018300407?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=138.692 < 200.0
+|39.97327|20.224592|5.4560046|
+#0.3143281#5.4560046#1.1415089#1.1415089#-0.13107109#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 65
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 65
+?14.107272?0.1680869?1.8622588?0.14107272?1.680869E-8?-0.018622588?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=138.9476 < 200.0
+|40.563286|23.701653|5.441778|
+#0.1680869#5.441778#1.0094942#1.0094942#-0.13201475#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 66
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 66
+?14.10728?0.02184333?1.8450172?0.1410728?2.184333E-9?-0.018450173?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=139.20319 < 200.0
+|40.640316|27.227577|5.428748|
+#0.02184333#5.428748#0.8762806#0.8762806#-0.13321358#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 67
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 67
+?14.107277?6.1587853?1.7823154?0.14107276?6.1587855E-7?-0.017823154?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=139.45879 < 200.0
+|40.202717|30.727089|5.4171667|
+#6.1587853#5.4171667#0.74161863#0.74161863#-0.13466197#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 68
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 68
+?14.10728?6.012545?1.9191066?0.1410728?6.012545E-7?-0.019191066?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=139.71439 < 200.0
+|39.259842|34.12548|5.407286|
+#6.012545#5.407286#0.60525894#0.60525894#-0.13635969#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 69
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 69
+?14.107274?5.866302?1.8416072?0.14107274?5.866302E-7?-0.018416071?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=139.96997 < 200.0
+|37.83181|37.350197|5.399355|
+#5.866302#5.399355#0.46694708#0.46694708#-0.13831186#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 70
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 70
+?14.107267?5.7200613?1.9230297?0.14107268?5.720061E-7?-0.019230297?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=140.22557 < 200.0
+|35.949116|40.332397|5.393615|
+#5.7200613#5.393615#0.32644653#0.32644653#-0.14050055#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 71
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 71
+?14.107267?5.57382?1.8528285?0.14107268?5.57382E-7?-0.018528285?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=140.48117 < 200.0
+|33.65195|43.00842|5.390291|
+#5.57382#5.390291#0.1835289#0.1835289#-0.14291763#-0.36247277#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 72
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 72
+?14.107257?5.42758?1.8196383?0.14107257?5.42758E-7?-0.018196382?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=140.73676 < 200.0
+|30.989359|45.321133|5.389587|
+#5.42758#5.389587#0.037992954#0.037992954#-0.14553595#-0.07503669#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 73
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 73
+?14.10727?5.2813363?1.932894?0.1410727?5.281336E-7?-0.01932894?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=140.99236 < 200.0
+|28.018171|47.22116|5.3916674|
+#5.2813363#5.3916674#-0.11033106#-0.11033106#-0.14832401#0.2179058#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 74
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 74
+?14.107264?5.1350946?1.9729863?0.14107263?5.1350946E-7?-0.019729864?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=141.24796 < 200.0
+|24.801826|48.667942|5.3966455|
+#5.1350946#5.3966455#-0.2615509#-0.2615509#-0.15121984#0.5165674#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 75
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 75
+?14.10727?4.9888544?2.0472302?0.1410727?4.988854E-7?-0.020472303?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=141.50356 < 200.0
+|21.408987|49.630596|5.404568|
+#4.9888544#5.404568#-0.4157138#-0.4157138#-0.15416288#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 76
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 76
+?14.107267?4.8426147?1.9870238?0.14107268?4.842615E-7?-0.019870238?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=141.75916 < 200.0
+|17.912086|50.088573|5.4153957|
+#4.8426147#5.4153957#-0.5727811#-0.5727811#-0.1570673#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 77
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 77
+?14.107272?4.6963735?2.060135?0.14107272?4.6963734E-7?-0.020601349?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=142.01477 < 200.0
+|14.385775|50.032093|5.428986|
+#4.6963735#5.428986#-0.7326126#-0.7326126#-0.15983152#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 78
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 78
+?14.107266?4.5501313?1.7581099?0.14107266?4.5501312E-7?-0.0175811?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=142.27037 < 200.0
+|10.905335|49.462357|5.4450846|
+#4.5501313#5.4450846#-0.89495325#-0.89495325#-0.16234064#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 79
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 79
+?14.107278?4.40389?1.9731032?0.14107278?4.4038902E-7?-0.019731032?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=142.52597 < 200.0
+|7.545067|48.39153|5.463317|
+#4.40389#5.463317#-1.0594268#-1.0594268#-0.16447353#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 80
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 80
+?14.107273?4.257649?1.7353795?0.14107274?4.2576488E-7?-0.017353795?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=142.78159 < 200.0
+|4.376709|46.842472|5.483197|
+#4.257649#5.483197#-1.2255483#-1.2255483#-0.16612148#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 81
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 81
+?14.107283?4.111407?1.9310682?0.14107282?4.111407E-7?-0.019310681?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=143.03719 < 200.0
+|1.4679003|44.84825|5.504144|
+#4.111407#5.504144#-1.3927374#-1.3927374#-0.16718912#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 82
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 82
+?14.107267?3.9651668?1.9626286?0.14107268?3.9651667E-7?-0.019626286?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=143.29279 < 200.0
+|-1.1192608|42.45145|5.5255117|
+#3.9651668#5.5255117#-1.5603449#-1.5603449#-0.16760755#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 83
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 83
+?14.107276?3.818925?1.9399843?0.14107276?3.8189248E-7?-0.019399844?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=143.54839 < 200.0
+|-3.3295426|39.703228|5.5466275|
+#3.818925#5.5466275#-1.7277026#-1.7277026#-0.16735768#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 84
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 84
+?14.10726?3.6726844?1.9261354?0.1410726?3.6726846E-7?-0.019261355?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=143.80399 < 200.0
+|-5.1157594|36.662262|5.566835|
+#3.6726844#5.566835#-1.8941505#-1.8941505#-0.16644788#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 85
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 85
+?14.107286?3.5264418?1.8945851?0.14107287?3.5264418E-7?-0.01894585?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=144.0596 < 200.0
+|-6.439776|33.39346|5.585533|
+#3.5264418#5.585533#-2.0590913#-2.0590913#-0.16494083#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 86
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 86
+?14.107263?3.3802?1.9575768?0.14107263?3.3802E-7?-0.019575767?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=144.3152 < 200.0
+|-7.273325|29.966618|5.6022096|
+#3.3802#5.6022096#-2.2220097#-2.2220097#-0.16291833#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 87
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 87
+?14.107268?3.2339575?1.7896147?0.14107269?3.2339577E-7?-0.017896147?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=144.5708 < 200.0
+|-7.5986114|26.454887|5.6164613|
+#3.2339575#5.6164613#-2.3825037#-2.3825037#-0.16049409#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 88
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 88
+?14.107286?3.0877151?1.9132838?0.14107287?3.0877152E-7?-0.019132838?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=144.82642 < 200.0
+|-7.4086895|22.933237|5.6280036|
+#3.0877151#5.6280036#-2.5402884#-2.5402884#-0.1577847#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 89
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 89
+?14.107277?2.9414725?2.0327764?0.14107276?2.9414724E-7?-0.020327764?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=145.08202 < 200.0
+|-6.7076144|19.476856|5.6366663|
+#2.9414725#5.6366663#-2.6951938#-2.6951938#-0.15490532#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 90
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 90
+?14.107281?2.7952306?1.9915073?0.14107281?2.7952305E-7?-0.019915072?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=145.33762 < 200.0
+|-5.510354|16.15953|5.6423864|
+#2.7952306#5.6423864#-2.8471558#-2.8471558#-0.15196204#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 91
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 91
+?14.107271?2.6489878?1.9203448?0.1410727?2.6489877E-7?-0.019203449?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=145.59322 < 200.0
+|-3.8424675|13.052085|5.645189|
+#2.6489878#5.645189#-2.996201#-2.996201#-0.14904523#0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 92
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 92
+?14.107271?2.5027454?1.76422?0.1410727?2.5027455E-7?-0.0176422?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=145.84882 < 200.0
+|-1.7395623|10.220857|5.645173|
+#2.5027454#5.645173#3.1407576#3.1407576#-0.1462267#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 93
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 93
+?14.107273?2.356503?1.9800403?0.14107274?2.356503E-7?-0.019800402?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=146.10443 < 200.0
+|0.7534673|7.7262883|5.642493|
+#2.356503#5.642493#2.9971955#2.9971955#-0.14356208#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 94
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 94
+?14.107275?2.2102606?2.036449?0.14107275?2.2102606E-7?-0.02036449?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=146.36003 < 200.0
+|3.5833983|5.621636|5.6373415|
+#2.2102606#5.6373415#2.8561044#2.8561044#-0.14109111#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 95
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 95
+?14.107274?2.0640185?1.8692143?0.14107274?2.0640185E-7?-0.018692143?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=146.61563 < 200.0
+|6.6898146|3.9518313|5.6299405|
+#2.0640185#5.6299405#2.7172632#2.7172632#-0.13884115#-0.6#
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 96
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 96
+?14.107273?1.9177761?1.9992207?0.14107274?1.9177762E-7?-0.019992208?
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.commons.data.impl.Simple08FlightPlan$1: Estimator Z=146.87125 < 200.0
+|10.006398|2.752523|5.6205277|
+#1.9177761#5.6205277#2.5804336#2.5804336#-0.13682961#-0.6#
